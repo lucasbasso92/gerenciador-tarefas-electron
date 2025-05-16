@@ -7,6 +7,8 @@ function createWindow () {
   const window = new BrowserWindow({
     width: 800, // largura da janela
     height: 600, // altura da janela
+    icon:'assets/icon.png', // icone da janela
+
 
   
 });
